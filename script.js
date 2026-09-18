@@ -6,7 +6,7 @@ var doge = document.getElementById("dogecoin");
 var settings = {
     "async" : true,
     "scrossDomain" :true,
-    "url" : "https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=bitcoin,ethereum,dogecoin",
+    "url" : "YOUR_API_KEY_HERE",
     "method" : "GET",
     "headers" : {}
 
